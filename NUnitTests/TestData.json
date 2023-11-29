@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Alpha",
+    "category": { "name": "Yankee" }
+  },
+  {
+    "name": "Bravo",
+    "category": { "name": "Zulu" }
+  },
+  {
+    "name": "Charlie",
+    "category": { "name": "Yankee" }
+  },
+  {
+    "name": "Delta",
+    "category": { "name": "Zulu" }
+  },
+  {
+    "name": "Echo"
+  }
+]
